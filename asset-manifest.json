@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/band-SPA-page/static/css/main.a0b03511.css",
+    "main.js": "/band-SPA-page/static/js/main.7bd3d5fc.js",
+    "static/media/led.jpg": "/band-SPA-page/static/media/led.dc21febd72d37c3b6c6c.jpg",
+    "static/media/vocals.jpg": "/band-SPA-page/static/media/vocals.f85b2044cc03ea4f15a1.jpg",
+    "static/media/guitar.jpg": "/band-SPA-page/static/media/guitar.b9db5c83a0d38e653551.jpg",
+    "static/media/bass.jpg": "/band-SPA-page/static/media/bass.408705b25d0a8d1eadf8.jpg",
+    "index.html": "/band-SPA-page/index.html",
+    "main.a0b03511.css.map": "/band-SPA-page/static/css/main.a0b03511.css.map",
+    "main.7bd3d5fc.js.map": "/band-SPA-page/static/js/main.7bd3d5fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b03511.css",
+    "static/js/main.7bd3d5fc.js"
+  ]
+}
